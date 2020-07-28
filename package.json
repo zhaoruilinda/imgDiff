@@ -1,0 +1,23 @@
+{
+  "name": "imgdiff",
+  "version": "1.0.0",
+  "description": "> 图片识别工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoruilinda/imgDiff.git"
+  },
+  "keywords": [
+    "image",
+    "diff"
+  ],
+  "author": "zhaoruilinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoruilinda/imgDiff/issues"
+  },
+  "homepage": "https://github.com/zhaoruilinda/imgDiff#readme"
+}
